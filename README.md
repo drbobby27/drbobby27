@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Backend side**
 
-- 🌱 I’m currently learning **Typescript, JWT , Docker and MongoDB.**
+- 🌱 I’m currently learning **Go, Angular , Docker and K8.**
 
 
 <p align="left">
