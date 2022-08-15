@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Backend side**
+- 🔭 I’m currently working on **Front End, and Backend side**
 
 - 🌱 I’m currently learning **Go, Angular , Docker and K8.**
 
