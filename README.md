@@ -1,6 +1,6 @@
 ### Hi there 👋
-<div> 
-<img  align="left" alt="coding" width=100vw height="180" src="https://res.cloudinary.com/jorge-tarifa/image/upload/v1669049895/stuff/v3m5sqtyk0427fgefg3p.png"/>
+<div width="1200" > 
+<img  align="left" alt="coding" width="100" height="180" src="https://res.cloudinary.com/jorge-tarifa/image/upload/v1669049895/stuff/v3m5sqtyk0427fgefg3p.png"/>
 </div>
 
 <img  align="left" alt="coding" width="250" height="180" src="https://res.cloudinary.com/jorge-tarifa/image/upload/v1660572206/stuff/gif_2_xcaoek.gif"/>
