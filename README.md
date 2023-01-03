@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Vue, Node and relational Databases  .**
+- 🌱 I’m currently learning **JAVA, Docker and DevOps tools .**
 
 
 <p align="left">
