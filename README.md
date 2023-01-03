@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **JAVA, Docker and DevOps tools .**
+- 🌱 I’m currently learning **Docker**
 
 
 <p align="left">
